@@ -2,18 +2,8 @@
 
 PCs with Class of **Mechanic, Mystic, or Technomancer** and a **crafting profession** can choose to have starting items in that profession as hand crafted by themselves. (must meet the crafting level requirements)
 
-### Crafting Professions
 
-Profession            |Applies to
- ---------------------|--------------------------------
-Weaponsmith |melee, firearm, heavy weapons, and ship/vehicle weapons
-Armorsmith |body armour and vehicle/ship frame,skin, armor
-Programmer |computer controls and software
-Artificer |magic and hybrid
-Ship Systems |vehicle/ship engines and controls, excluding frame/armor, ship weapons, and programming
-Genesplicer |Biologicals and genetic manipulation 
-
-The Kasathas race gets more attacks, they are naturally quad-dexterous at Dex 15, otherwise take -2 per additional attack (first attack 0, 2nd -2, 3rd -4, 4th -6)
+The Kasathas race gets more attacks, they take -2 per additional attack (first attack 0, 2nd -2, 3rd -4, 4th -6)
 	Only one long arm or 2H-melee can be equipped at a time.  All targets must be with a 60 degree arc (attacks of opportunity exclude this limitation)
 	If using a heavy weapon no other weapons can be equipped.
 		Examples of valid configurations
@@ -21,9 +11,8 @@ The Kasathas race gets more attacks, they are naturally quad-dexterous at Dex 15
 			Pulse caster pistol (Rt lower arm)
 			long sword (Lt lower arm)
 
-All Vesks are ambidextrous.  If a Vesk is using a one handed firearm and someone moves in or out of their space they get an attack of opportunity (ie squares around them are threatened if they have an unengaged hand).
 
-An Android with a Dex of 15+ and the feat of Basic Melee weapon proficiency and has a free hand can treat their front and side squares as threatened and make attacks of opportunity even if they are using a one handed small arm.
+Any PC with the feat of Improved Unarmed Combat and has a free hand can treat their front and side squares as threatened and make attacks of opportunity even if they are using a one handed small arm.
 
 ### Mechanic Drones
 Mechanic drones use the PCs initiative and go just after the PC.  They require PC to issue commands (swift action) if they wish to change the drones behavior.
@@ -35,7 +24,7 @@ Mechanic drones use the PCs initiative and go just after the PC.  They require P
   * Fully sentient, can override commands.  Completely dedicated to PC. 
 
 ### Crafting
-A Mechanic or a Mystic can craft items using the Engineering and Mysticism skills the max level of the item is the skills ranks.
+A Mechanic, Technomancer or a Mystic can craft items using the Engineering and Mysticism skills the max level of the item is the skills ranks.
 	If they have a profession skill in specialized crafting the max level is the professions bonus.
 	Note: it is possible the maximum level of item to be crafted can be below the PC’s level
 
@@ -55,6 +44,17 @@ PC Level +4  | DC35 | 4.0x
 PC Level +5  | DC40 | 5.0x
 
  A failed DC check causes the loss of all materials.  A DC fumble, PC can not attempt this craft until next level up of profession. *(You have a fundamental misunderstanding of the process)*
+
+### Crafting Professions
+
+Profession            |Applies to
+ ---------------------|--------------------------------
+Weaponsmith |melee, firearm, heavy weapons, and ship/vehicle weapons
+Armorsmith |body armour and vehicle/ship frame,skin, armor
+Programmer |computer controls and software
+Artificer |magic and hybrid
+Ship Systems |vehicle/ship engines and controls, excluding frame/armor, ship weapons, and programming
+Genesplicer |Biologicals and genetic manipulation 
 
 ### Potions, Serums, and drugs
 All serums are less effective when taking more than 1 dose per 24 hours.
