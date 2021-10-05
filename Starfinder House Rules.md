@@ -1,8 +1,31 @@
 # ManicMarik's Starfinder House Rules
 
-PCs with Class of **Mechanic, Mystic, or Technomancer** and a **crafting profession** can choose to have starting items in that profession as hand crafted by themselves. (must meet the crafting level requirements)
+### Potions, Serums, and drugs
+All serums are less effective when taking more than 1 dose per 24 hours.
 
+For each additional dose it subtracts 1 HP for every 2 mk of serum taken within 24 hours.
 
+*(taking a mk2 healing followed by a mk 1 healling give 3mk total for a -1 HP on next dose)*
+
+(note overdosing can add more damage instead of healing it)
+
+>*Thus taking multiple serum of healing mk2*
+>- 1st use     3d8 healing
+>-   2nd use	  3d8-1 healing
+>-   3rd use	  3d8-2 healing
+>-   4th use	  3d8-3 healing
+>
+> *If you take a serum of healing mk1 at this point, you will receive 1d8-4 healing*
+
+Previous use |  decrease on next use
+-------------|-----------------------
+2mk |-1
+3mk |-1
+4mk |-2
+5mk |-2
+6mk |-3
+
+### Kasathas attacks
 The Kasathas race gets more attacks, they take -2 per additional attack (first attack 0, 2nd -2, 3rd -4, 4th -6)
 	Only one long arm or 2H-melee can be equipped at a time.  All targets must be with a 60 degree arc (attacks of opportunity exclude this limitation)
 	If using a heavy weapon no other weapons can be equipped.
@@ -11,7 +34,7 @@ The Kasathas race gets more attacks, they take -2 per additional attack (first a
 			Pulse caster pistol (Rt lower arm)
 			long sword (Lt lower arm)
 
-
+### Using Unarmed combat for attacks of Opportunity
 Any PC with the feat of Improved Unarmed Combat and has a free hand can treat their front and side squares as threatened and make attacks of opportunity even if they are using a one handed small arm.
 
 ### Mechanic Drones
@@ -56,27 +79,3 @@ Artificer |magic and hybrid
 Ship Systems |vehicle/ship engines and controls, excluding frame/armor, ship weapons, and programming
 Genesplicer |Biologicals and genetic manipulation 
 
-### Potions, Serums, and drugs
-All serums are less effective when taking more than 1 dose per 24 hours.
-
-For each additional dose it subtracts 1 HP for every 2 mk of serum taken within 24 hours.
-
-*(taking a mk2 healing followed by a mk 1 healling give 3mk total for a -1 HP on next dose)*
-
-(note overdosing can add more damage instead of healing it)
-
->*Thus taking multiple serum of healing mk2*
->- 1st use     3d8 healing
->-   2nd use	  3d8-1 healing
->-   3rd use	  3d8-2 healing
->-   4th use	  3d8-3 healing
->
-> *If you take a serum of healing mk1 at this point, you will receive 1d8-4 healing*
-
-Previous use |  decrease on next use
--------------|-----------------------
-2mk |-1
-3mk |-1
-4mk |-2
-5mk |-2
-6mk |-3

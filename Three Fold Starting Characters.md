@@ -52,10 +52,14 @@ You start with
 
 You can purchase additional supplies using the Core, Armory, Character Operations Manual, Galaxy Exploration Manual and Starship Operations Manual.
 
-You can purchase items of any level, though only your level +5 are readily available at major markets.  Aquiring items beyond that require using player resources and contacts.
+Generally you can purchase items of any level, though only your level +5 are readily available at major markets.  Aquiring items beyond that require using player resources and contacts.
 
 ### Notes
 PCs can use items that are their level +5 with no reduction in skill checks.  Items with higher level may impose penalities. *(For weapons this might be increased chance of fumble or negatives to hit.  For Armor it may be minuses to DEX.  For augmentations it may be experiencing trouble synchronizing.)*
+
+### Starting equipment for Crafters
+PCs with Class of **Mechanic, Mystic, or Technomancer** and a **crafting profession** can choose to have starting items in that profession as hand crafted by themselves. (must meet the crafting level requirements)
+
 
 ### World Walkers Mercenary Guild
 Members of the guild are independent contractors and can either take work independently with no interaction with the guild or take work under the Guilds aegis.
