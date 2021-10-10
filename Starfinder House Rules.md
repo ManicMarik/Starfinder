@@ -94,9 +94,22 @@ A starship will sell for 10% it's BP value (so a Tier 5 135 BP starship will ret
 
 	BP's smallest increment is 1/10 of a BP.  All transactions will round to the nearest 1/10.
 
+When the PCs have collected enough BPs they can purchase a starship or other large ticket item (workshops, buildings, artifacts, or bribes)
+
 ### Starship Options
 If the PC's aquire a starship they have a few optons.
 1.  Keep it.  Note Starships require yearly maintence,
 It keep a ship operational it requires spending 1% of the Ships BP value per year ( or have on staff 1 engineer per 100BP of ship value - round all fractions up)
 2.  Sell it for scrape - 10% of it's value in BP as BP.
-3.  Upgrade it.  
+3.  Upgrade it. You can be reimbursed for 50% of the BP value of the old part being upgraded or 10% of the value if just selling it. (underlaying frame can not be upgraded)
+4.  Anti-personnel weapons and traps have to be paid for out of normal credits.
+
+Purchasing
+1. In most major porst there are a few premade starships for sale at normal costs. (availabel immediately)
+2.  There are damagaed ships (50% off normal cost) + 10% BP cost to repair
+3.  There are salvaged ships (80% off normal cost) + 100% BP cost to repair
+4.  Custom build (100% BP cost to build)
+
+Repair or upgrade takes time.  1 week per BP spent. (This can be expedited to 1 day per BP by doubling the cost)
+
+Custom build takes 1 week per BP of ship cost. (or Expedited to 2 days per BP by doubling the cost)
