@@ -79,3 +79,24 @@ Artificer |magic and hybrid
 Ship Systems |vehicle/ship engines and controls, excluding frame/armor, ship weapons, and programming
 Genesplicer |Biologicals and genetic manipulation 
 
+### LOOT, credits and Build Points
+Besides getting items and credits for loot, PCs may also get BP (Build Points).  These are the currency to purchase and maintain large and expensive items such as starships or planetary compounds.
+
+A BP is awarded when the item's sale value would be too large for personal use.
+
+Examples are the sale of starships, artifacts.
+
+A starship will sell for 10% it's BP value (so a Tier 5 135 BP starship will return 13.5 BPs)
+	Players can not buy BPs, they must be earned.  They can sell them, 1 BP = 1000cr
+	or use them to buys starship components (or starships)
+
+	They can also be used to purchase smaller vechicles (including cars and motorbikes). (in this case 1 BP = 100,000 cr)
+
+	BP's smallest increment is 1/10 of a BP.  All transactions will round to the nearest 1/10.
+
+### Starship Options
+If the PC's aquire a starship they have a few optons.
+1.  Keep it.  Note Starships require yearly maintence,
+It keep a ship operational it requires spending 1% of the Ships BP value per year ( or have on staff 1 engineer per 100BP of ship value - round all fractions up)
+2.  Sell it for scrape - 10% of it's value in BP as BP.
+3.  Upgrade it.  
