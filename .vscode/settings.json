@@ -1,0 +1,34 @@
+{
+  "files.associations": {
+    "*.xml": "xml",
+    "*.lua": "lua"
+  },
+  "files.eol": "\r\n",
+  "files.encoding": "utf8",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.rulers": [120],
+  "[xml]": { "editor.tabSize": 2, "editor.defaultFormatter": "redhat.vscode-xml" },
+  "[lua]": { "editor.tabSize": 4 },
+  "Lua.runtime.version": "Lua 5.3",
+  "Lua.workspace.library": [],
+  "Lua.diagnostics.globals": [
+    "Interface", "DB", "DiceManager", "ActionsManager", "CharManager", "ChatManager",
+    "Comm", "Debug", "Input", "User", "Session", "OptionsManager", "Token", "TokenManager",
+    "Utility", "StringManager", "Module", "Campaign", "Extension", "ActorManager",
+    "CombatManager", "EffectManager", "ModifierManager", "ModifierStack", "DesktopManager",
+    "LibraryData", "RecordDataManager", "Interface", "UtilityManager", "windowlist", "window",
+    "onInit", "onClose", "setValue", "getValue", "databasenode"
+  ],
+  "Lua.diagnostics.disable": ["lowercase-global", "undefined-field"],
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.telemetry.enable": false,
+  "xml.validation.enabled": true,
+  "xml.format.maxLineWidth": 120,
+  "github.copilot.enable": { "*": true, "plaintext": false },
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "search.exclude": { "**/*.pak": true, "**/*.ext": true, "**/dist": true }
+}

@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Package ruleset (.pak)",
+      "type": "shell",
+      "command": "mkdir -p dist && zip -r dist/Starfinder.pak . -x '.git/*' '.vscode/*' '.github/*' 'docs/*' 'dist/*' '*.md'",
+      "windows": {
+        "command": "New-Item -ItemType Directory -Force dist | Out-Null; Compress-Archive -Path base.xml,graphics,common,campaign,ruleset,scripts,strings -DestinationPath dist/Starfinder.zip -Force; Move-Item dist/Starfinder.zip dist/Starfinder.pak -Force"
+      },
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Deploy to Fantasy Grounds rulesets folder",
+      "type": "shell",
+      "command": "cp dist/Starfinder.pak \"${env:FG_DATA}/rulesets/\"",
+      "windows": { "command": "Copy-Item dist/Starfinder.pak \"$env:FG_DATA/rulesets/\" -Force" },
+      "dependsOn": "Package ruleset (.pak)",
+      "problemMatcher": []
+    }
+  ]
+}
